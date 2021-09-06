@@ -8,7 +8,13 @@ Performing analysis on Kickstarter data given in Module 1 to uncover trends
 
 ### Analysis of Outcomes Based on Launch Date
 
+
+![Outcomes Based on Launch Date](https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+
 ### Analysis of Outcomes Based on Goals
+
+
+![Outcome Percentage by Goal](https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
@@ -22,4 +28,6 @@ Performing analysis on Kickstarter data given in Module 1 to uncover trends
 
 - What are some other possible tables and/or graphs that we could create?
 
-![image graph](https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/DateOutcomesGraph.png)
+![DateOutcomesGraph](https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/DateOutcomesGraph.png)
+![GB Musical Boxplots](https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/GB_Musical_Stats.png)
+![Parent Category Outcomes](https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/ParentCategoryOutcomesGraph.png)
