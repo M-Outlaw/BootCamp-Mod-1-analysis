@@ -49,15 +49,21 @@ The analysis started with examining the data obtained from Kickstarter. The firs
 - Statistics were performed to look for underlying trends.
 - Since Louise 
 
-![GB Musical Boxplots](https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/GB_Musical_Stats.png)
+<p align="center">
+<img src="https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/GB_Musical_Stats.png" width="515" height="400"/>
+</p>
 
 ### Analysis of Outcomes Based on Launch Date
+- By looking at the graph of the outcomes for all of the campaigns, it can be seen that May was the most successful. But we want to confirm that this is also true for the theater campaigns. To confirm, a graph of the outcomes of only the theater campaigns for each month was created. 
+ * From this graph, it can be concluded that May had the most success for theater campaigns.
 
-
-![Outcomes Based on Launch Date](https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+<p align="center">
+<img src="https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/Theater_Outcomes_vs_Launch.png" width="543.2" height="256"/>
+</p>
 
 ### Analysis of Outcomes Based on Goals
-
+- Now that we know when the best time would be to launch a campaign, we need to determine the goal amount that would provide the most success. The data for all of the play campaigns was sorted by goal value in increments of $500 and then converted to percentages. The percentages of the play outcomes are displayed in the graph.
+ * From this graph, it can be concluded that campaigns with a goal of less than $1,000 were the most successful, but closely followed by campains with a goals of $1,0000 to $4,999, $3,500 to $3,999, and $4,000 to $4,499.
 
 ![Outcome Percentage by Goal](https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/Outcomes_vs_Goals.png)
 
