@@ -47,7 +47,11 @@ The analysis started with examining the data obtained from Kickstarter. The firs
 ### Statistics
 
 - Statistics were performed to look for underlying trends.
-- Since Louise 
+- The mean, median, standard deviation, and IQR were determined for both the goal and pedged amounts for all US campaigns.
+
+
+
+- Since Louise is interested in musicals in Great Britian, the mean, median, standard deviation, and IQR were determined for both the Great Britian musicals 
 
 <p align="center">
 <img src="https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/GB_Musical_Stats.png" width="515" height="400"/>
