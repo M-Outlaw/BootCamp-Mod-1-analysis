@@ -21,11 +21,15 @@ The analysis started with examining the data obtained from Kickstarter. The firs
 ### Initial Visualization
 - To get an initial idea of trends in the data, a pivot table was created to see how the campaigns faired for each parent category. A graph of the data is shown below.
 
-![Parent Category Outcomes](https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/ParentCategoryOutcomesGraph.png)
 
-- Since Louise is creating a campaign for a theatre project 
+<img src="https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/ParentCategoryOutcomesGraph.png" width="572" height="418"/>
 
-![image](https://user-images.githubusercontent.com/89364082/132151673-cffc18b7-d61d-482f-99d7-73aa10cf24cd.png)
+- Since Louise is creating a campaign for a theater project, a graph was created of the outcomes for theater projects only to better visual the data.
+
+
+<img src="https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/Theater_Outcomes.png" width="572" height="418"/>
+
+
 
 
 
