@@ -26,17 +26,12 @@ The analysis started with examining the data obtained from Kickstarter. The firs
 <img src="https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/ParentCategoryOutcomesGraph.png" width="572" height="418" />
 </p>
 
-- Since Louise is creating a campaign for a theater project, a graph was created of the outcomes for theater projects only to better visual the data.
+- Since Louise is creating a campaign for a theater project, a graph was created of the outcomes for theater projects only to better visual the data (left). Then, the data was further narrowed down to the outcomes of all play projects (right).
 
 
 <p align="center">
-<img src="https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/Theater_Outcomes.png" width="572" height="418"/>
-</p>
-
-- Further narrowed down to the outcomes of all play projects.
-
-<p align="center">
-<img src="https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/Theater_Outcomes.png" width="572" height="418"/>
+<img src="https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/Theater_Outcomes.png" width="430" height="315"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/Play_Outcomes.png" width="460" height="315"/>
 </p>
 
 ### Digging In
