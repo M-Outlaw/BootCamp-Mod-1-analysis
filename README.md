@@ -22,18 +22,37 @@ The analysis started with examining the data obtained from Kickstarter. The firs
 - To get an initial idea of trends in the data, a pivot table was created to see how the campaigns faired for each parent category. A graph of the data is shown below.
 
 
-<img src="https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/ParentCategoryOutcomesGraph.png" width="572" height="418"/>
+<p align="center">
+<img src="https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/ParentCategoryOutcomesGraph.png" width="572" height="418" />
+</p>
 
 - Since Louise is creating a campaign for a theater project, a graph was created of the outcomes for theater projects only to better visual the data.
 
 
+<p align="center">
 <img src="https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/Theater_Outcomes.png" width="572" height="418"/>
+</p>
 
+- Further narrowed down to the outcomes of all play projects.
 
+<p align="center">
+<img src="https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/Theater_Outcomes.png" width="572" height="418"/>
+</p>
 
+### Digging In
+- While it is good information to see how many of the theater campaigns succeeded or failed, it does not help much in helping Louise determine when and for how much she should set her campaign. 
 
+- The next step was to look at the launch dates in relationship to the outcome of the campaigns to see if certain months fared better than others, shown below. 
+  * From this graph, it can be concluded that by far May had the most success of all of the campaigns.
 
-![DateOutcomesGraph](https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/DateOutcomesGraph.png)
+<p align="center">
+<img src="https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/DateOutcomesGraph.png" width="573.04" height="345.04"/>
+</p>
+
+### Statistics
+
+- Statistics were performed to look for underlying trends.
+- Since Louise 
 
 ![GB Musical Boxplots](https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/GB_Musical_Stats.png)
 
