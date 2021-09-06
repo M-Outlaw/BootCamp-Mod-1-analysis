@@ -30,7 +30,7 @@ The analysis started with examining the data obtained from Kickstarter. The firs
 
 
 <p align="center">
-<img src="https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/Theater_Outcomes.png" width="430" height="315"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/Theater_Outcomes.png" width="430" height="315"/>&nbsp;&nbsp;
 <img src="https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/Play_Outcomes.png" width="460" height="315"/>
 </p>
 
