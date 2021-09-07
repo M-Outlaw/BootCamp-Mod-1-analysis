@@ -47,11 +47,20 @@ The analysis started with examining the data obtained from Kickstarter. The firs
 ### Statistics
 
 - Statistics were performed to look for underlying trends.
+
 - The mean, median, standard deviation, and IQR were determined for both the goal and pedged amounts for all US campaigns.
+ * The mean goal for successful campaigns was about half that of failed campaigns.
+ * The median goal for successful campaigns was $2,000 less than that of failed campaigns.
+ * The statistics for successful amounts pledged were similar to those for the successful goals.
+ * The statistics for failed amounts pledged were far below the goal, showing that when a campaign failed, it received minimal pledges and not many campaigns came close to their goal.
 
+<p align="center">
+<img src="https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/US_Goal_Stats.png" width="382.5" height="159"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/US_Pledged_Stats.png" width="382.5" height="159"/>
+</p>
 
-
-- Since Louise is interested in musicals in Great Britian, the mean, median, standard deviation, and IQR were determined for both the Great Britian musicals 
+- Since Louise is interested in musicals in Great Britian, the mean, median, standard deviation, and IQR were determined for both the goal and pledged amounts for Great Britian musicals.
+ * This further shows that campaigns with lower goals were more successful.
 
 <p align="center">
 <img src="https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/GB_Musical_Stats.png" width="515" height="400"/>
@@ -72,15 +81,16 @@ The analysis started with examining the data obtained from Kickstarter. The firs
 ![Outcome Percentage by Goal](https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
+- A challenge I had was understanding which country Louise prefered to hold her campaign. It was confusing to determine if she preferred the US or Great Britian. If I were able to communicate with her, I would discuss this in more detail, because while the trends are similar amoung the countries, knowing this specific detail would allow for a more specific analysis.
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- For a successful campaign, I would suggest Louise launch her campaign in May since May contained the most successful number of campaigns. If May is not possible, I would suggest Louise not launch her campaign in December or January because in December the number of successful campaigns was approximately the same as the number of failed campaigns and in January, while the number of successful campaigns are higher than failed campaigns, the most number of shows cancels also occured this month.
 
-- What can you conclude about the Outcomes based on Goals?
+- For a successful campaign, I would suggest setting a campaign goal of $4,999 or less. This is because while campaigns with a goal of less than $1,000 had the largest percent of success, it is only slightly higher than campaigns with a goal of between $1,000 and $4,999. While campaigns of $35,000 to $49,999 had a success percentage of slightly less than those with a goal of $4,999 or less, as seen from the other statistics, lower goal values proved to be more successful.
 
-- What are some limitations of this dataset?
+- A limitation to the dataset is that all of the goals and pledges are given in dollar amount. I wonder if this is an approximation of the converstion of what the goals were in other currencies to dollars. Having the goal and pledged amount in each countries corresponding currencies would provide a more accurate analysis.
 
-- What are some other possible tables and/or graphs that we could create?
+- Based on where Louise prefered to hold her campaign, graphs of Outcomes based on Launch Date and Outcomes based on Goals limited to just the target country could provide further helpful information.
 
 
