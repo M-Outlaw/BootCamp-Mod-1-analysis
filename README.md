@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns
-Performing analysis on Kickstarter data given in Module 1 to uncover trends
+Performing analysis on Kickstarter data given in Module 1 to uncover trends.
 ## Overview of Project
 
 ### Purpose
@@ -7,12 +7,12 @@ The purpose of this analysis to use Kickstarter data to help determine the best 
 
 ## Analysis and Challenges
 ### Data
-The analysis started with examining the data obtained from Kickstarter. The first think to notice is that Kickstarter provided a very large data set. This is great, since more data allows for a more thorough analysis and the ability to see largescale trends. The first thing to notice about the data is that not only does it include the campaign’s goal, the amount pledged, and whether the campaign was successful or not, but it included the country in which the campaign took place, the launch date, the deadline, the number of backers the pledged, and the category of campaign.
+The analysis started with examining the data obtained from Kickstarter. The first thing to notice is that Kickstarter provided a very large data set. This is great, since more data allows for a more thorough analysis and the ability to see largescale trends. The second thing to notice about the data is that not only does it include the campaign’s goal, the amount pledged, and whether the campaign was successful or not, but it included the country in which the campaign took place, the launch date, the deadline, the number of backers that pledged, and the category of the campaign.
 
 ### Initial Organization
 - The data contained the category of the campaign, however it was hard to differentiate because there were an overarching category and subcategories within the same column. This was split into two different columns: Parent Category and Subcategory. 
 
-- While the outcome is important, it is important to look at by how much each project succeeded or failed. This was made more visible by calculating the Percent funded and average donation each backer pledged for each campaign.
+- While the outcome is important, it is integral to look at by how much each project succeeded or failed. This was made more visible by calculating the percent funded and average donation each backer pledged for each campaign.
 
 - The launch and deadline dates were converted to a more readable format. Also, a column was created, Campaign Days, to see how many days each campaign lasted.
 
@@ -35,7 +35,7 @@ The analysis started with examining the data obtained from Kickstarter. The firs
 </p>
 
 ### Digging In
-- While it is good information to see how many of the theater campaigns succeeded or failed, it does not help much in helping Louise determine when and for how much she should set her campaign. 
+- While it is good information to see how many of the theater campaigns succeeded or failed, it does not provide much in helping Louise determine when and for how much she should set her campaign. 
 
 - The next step was to look at the launch dates in relationship to the outcome of the campaigns to see if certain months fared better than others, shown below. 
   * From this graph, it can be concluded that by far May had the most success of all of the campaigns.
@@ -76,7 +76,7 @@ The analysis started with examining the data obtained from Kickstarter. The firs
 
 ### Analysis of Outcomes Based on Goals
 - Now that we know when the best time would be to launch a campaign, we need to determine the goal amount that would provide the most success. The data for all of the play campaigns was sorted by goal value in increments of $500 and then converted to percentages. The percentages of the play outcomes are displayed in the graph.
- * From this graph, it can be concluded that campaigns with a goal of less than $1,000 were the most successful, but closely followed by campains with a goals of $1,0000 to $4,999, $3,500 to $3,999, and $4,000 to $4,499.
+ * From this graph, it can be concluded that campaigns with a goal of less than $1,000 were the most successful, but closely followed by campains with a goals of $1,0000 to $1,999, $3,500 to $3,999, and $4,000 to $4,499.
 
 ![Outcome Percentage by Goal](https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/Outcomes_vs_Goals.png)
 
