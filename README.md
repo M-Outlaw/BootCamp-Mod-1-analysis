@@ -75,8 +75,8 @@ The analysis started with examining the data obtained from Kickstarter. The firs
 </p>
 
 ### Analysis of Outcomes Based on Goals
-- Now that we know when the best time would be to launch a campaign, we need to determine the goal amount that would provide the most success. The data for all of the play campaigns was sorted by goal value in increments of $500 and then converted to percentages. The percentages of the play outcomes are displayed in the graph.
- * From this graph, it can be concluded that campaigns with a goal of less than $1,000 were the most successful, but closely followed by campains with a goals of $1,0000 to $1,999, $3,500 to $3,999, and $4,000 to $4,499.
+- Now that we know when the best time would be to launch a campaign, we need to determine the goal amount that would provide the most success. The data for all of the play campaigns was sorted by goal value in increments of $5000 and then converted to percentages. The percentages of the play outcomes are displayed in the graph.
+ * From this graph, it can be concluded that campaigns with a goal of less than $1,000 were the most successful, but closely followed by campains with a goals of $1,0000 to $4,999, $35,000 to $39,999, and $40,000 to $44,999.
 
 ![Outcome Percentage by Goal](https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/Outcomes_vs_Goals.png)
 
@@ -89,7 +89,7 @@ The analysis started with examining the data obtained from Kickstarter. The firs
 
 - For a successful campaign, I would suggest setting a campaign goal of $4,999 or less. This is because while campaigns with a goal of less than $1,000 had the largest percent of success, it is only slightly higher than campaigns with a goal of between $1,000 and $4,999. While campaigns of $35,000 to $49,999 had a success percentage of slightly less than those with a goal of $4,999 or less, as seen from the other statistics, lower goal values proved to be more successful.
 
-- A limitation to the dataset is that all of the goals and pledges are given in dollar amount. I wonder if this is an approximation of the converstion of what the goals were in other currencies to dollars. Having the goal and pledged amount in each countries corresponding currencies would provide a more accurate analysis.
+- A limitation to the dataset is that all of the goals and pledges are given in dollar amounts. I wonder if this is an approximation of the converstion of what the goals were in other currencies to dollars. Having the goal and pledged amount in each countries corresponding currencies would provide a more accurate analysis.
 
 - Based on where Louise prefered to hold her campaign, graphs of Outcomes based on Launch Date and Outcomes based on Goals limited to just the target country could provide further helpful information.
 
