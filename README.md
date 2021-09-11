@@ -76,7 +76,7 @@ The analysis started with examining the data obtained from Kickstarter. The firs
 
 ### Analysis of Outcomes Based on Goals
 - Now that we know when the best time would be to launch a campaign, we need to determine the goal amount that would provide the most success. The data for all of the play campaigns was sorted by goal value in increments of $5000 and then converted to percentages. The percentages of the play outcomes are displayed in the graph.
- * From this graph, it can be concluded that campaigns with a goal of less than $1,000 were the most successful, but closely followed by campains with a goals of $1,0000 to $4,999, $35,000 to $39,999, and $40,000 to $44,999.
+ * From this graph, it can be concluded that campaigns with a goal of less than $1,000 were the most successful, but closely followed by campains with a goals of $1,000 to $4,999, $35,000 to $39,999, and $40,000 to $44,999.
 
 ![Outcome Percentage by Goal](https://github.com/M-Outlaw/BootCamp-Mod-1-analysis/blob/main/Outcomes_vs_Goals.png)
 
